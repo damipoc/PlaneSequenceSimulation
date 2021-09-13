@@ -6,9 +6,9 @@
 
 Running the simulation and instructions
 
-The whole code is in one source file named boardingSequence.py and it was created using Python 3.9.2 64-bit, no additional libraries were used so only python is needed to run the file. 
+The whole code is in one source file named `boardingSequence.py` and it was created using Python 3.9.2 64-bit, no additional libraries were used so only python is needed to run the file. 
 
-planeIcon.ico should be kept in the same folder as the python file since it serves as the GUI’s icon. 
+`planeIcon.ico` should be kept in the same folder as the python file since it serves as the GUI’s icon. 
 
 Using the simulator is fairly simple, first, the layout must be chosen, it is set to default by itself, after that the boarding method is selected, BTF being the default one, and finally, the simulation speed is chosen, fast is useful if quick results are needed otherwise medium and slow should be used if animation is desired. 
 
